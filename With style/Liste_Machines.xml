@@ -1,0 +1,17 @@
+<Ordinateurs>
+	<Ordinateur>
+		<Nom>PCDeDamien</Nom>
+		<Localisation>Paris</Localisation>
+		<OS>Windows 10 - 1803</OS>
+	</Ordinateur>
+	<Ordinateur>
+		<Nom>PCDeJerome</Nom>
+		<Localisation>Lyon</Localisation>
+		<OS>Windows 10 - 1709</OS>
+	</Ordinateur>
+	<Ordinateur>
+		<Nom>PCDeKevin</Nom>
+		<Localisation>Paris</Localisation>
+		<OS>Windows 10 - 1709</OS>
+	</Ordinateur>
+</Ordinateurs>

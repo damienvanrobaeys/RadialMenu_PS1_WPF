@@ -1,0 +1,14 @@
+<Utilisateurs>
+	<Utilisateur>
+		<Nom>Steven</Nom>
+		<Localisation>Elancourt</Localisation>
+	</Utilisateur>
+	<Utilisateur>
+		<Nom>Thomas</Nom>
+		<Localisation>Londres</Localisation>
+	</Utilisateur>
+	<Utilisateur>
+		<Nom>Vincent</Nom>
+		<Localisation>Paris</Localisation>
+	</Utilisateur>
+</Utilisateurs>
