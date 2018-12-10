@@ -1,0 +1,29 @@
+<Users>
+	<User>
+		<Nom>Soprano</Nom>
+		<Prenom>Anthony</Prenom>
+		<Ville>New-Jersey</Ville>
+		<Age>40</Age>
+	</User>
+
+	<User>
+		<Nom>Pinkman</Nom>
+		<Prenom>Jessy</Prenom>
+		<Ville>Albukerque</Ville>
+		<Age>30</Age>
+	</User>
+
+	<User>
+		<Nom>Teller</Nom>
+		<Prenom>Jax</Prenom>
+		<Ville>Charming</Ville>
+		<Age>25</Age>
+	</User>	
+	
+	<User>
+		<Nom>White</Nom>
+		<Prenom>Walter</Prenom>
+		<Ville>Albukerque</Ville>
+		<Age>50</Age>
+	</User>	
+</Users>

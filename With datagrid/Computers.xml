@@ -1,0 +1,26 @@
+<Computers>
+	<Computer>
+		<Name>Computer1</Name>
+		<Town>Paris</Town>
+		<OS>W10 1709</OS>
+	</Computer>
+	
+	<Computer>
+		<Name>Computer2</Name>
+		<Town>New-York</Town>
+		<OS>W10 1803</OS>
+	</Computer>
+	
+	<Computer>
+		<Name>Computer3</Name>
+		<Town>Seattle</Town>
+		<OS>W10 1809</OS>
+	</Computer>
+	
+	<Computer>
+		<Name>Computer4</Name>
+		<Town>London</Town>
+		<OS>W10 1803</OS>
+	</Computer>
+
+</Computers>
