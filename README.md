@@ -1,5 +1,5 @@
 # RadialMenu_PS1_WPF
-![alt text](https://4.bp.blogspot.com/-mnclHTrlw-c/XAmKnLe3WWI/AAAAAAAAJAE/KFJY0DWPPFIqmpbnZMgcxHdFciyh6eNsQCLcBGAs/s1600/radialmenu1gif.gif)
+![alt text](https://github.com/damienvanrobaeys/RadialMenu_PS1_WPF/blob/master/gif/radialmenu1gif.gif)
 
 **Create a cool WPF menu with RadialMenu and PowerShell**
 
